@@ -6,10 +6,10 @@ entries:
         - Add namespace field in the namespace scoped resource templates
     apiVersion: v2
     appVersion: 0.48.1
-    created: "2021-08-17T17:01:43.589599+08:00"
+    created: "2021-08-17T17:06:08.294225+08:00"
     description: Ingress controller for Kubernetes using NGINX as a reverse proxy
       and load balancer
-    digest: ab9280c0231430d29b66eb6b42b83c4c04b27984297cd565e8941bff5348780c
+    digest: a7631818c83e9a969e3b0ee4a3daf3495c64542571614e45f0fc0fdcbe7972d7
     home: https://github.com/kubernetes/ingress-nginx
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
@@ -25,4 +25,4 @@ entries:
     urls:
     - ingress-nginx-3.35.0.tgz
     version: 3.35.0
-generated: "2021-08-17T17:01:43.587099+08:00"
+generated: "2021-08-17T17:06:08.291443+08:00"
